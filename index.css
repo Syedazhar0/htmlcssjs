@@ -1,0 +1,48 @@
+ /* *{
+    margin: 0px;
+    padding:0px;
+ }
+
+ body{
+    background-color: pink;
+ }
+
+ h1{
+    color: blue;
+    background-color: yellow;
+ }
+
+ button{
+    color: bisque;
+    background-color: blue;
+ }
+
+ #box{
+    height: 200px;
+    width: 100px;
+    border: 5px solid beige;
+    text-align: center;
+ } */
+
+ /* *****************************  event handling*/
+
+ #box{
+   height: 100px;
+   width: 100px;
+   border: 5px solid beige;
+   text-align: center;
+   background-color: aqua;
+} 
+
+
+/* change mode with classlist in js */
+
+.dark{
+   background-color: black;
+   color: white;
+}
+
+.light{
+   background-color: white;
+   color: black;
+}
